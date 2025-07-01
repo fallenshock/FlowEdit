@@ -4,7 +4,7 @@
 
 # FlowEdit
 
-[Project](https://matankleiner.github.io/flowedit/) | [Arxiv](https://arxiv.org/abs/2412.08629) | [Demo](https://huggingface.co/spaces/fallenshock/FlowEdit) | [ComfyUI](#comfyui-implementation-for-different-models)
+[Project](https://matankleiner.github.io/flowedit/) | [Arxiv](https://arxiv.org/abs/2412.08629) | [Demo](https://huggingface.co/spaces/fallenshock/FlowEdit) | [ComfyUI](#comfyui-implementation-for-different-models) | [Data](https://github.com/fallenshock/FlowEdit/tree/main/Data)
 
 ### [ICCV 2025] Official Pytorch implementation of the paper: "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models"
 
