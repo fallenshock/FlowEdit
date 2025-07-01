@@ -38,10 +38,11 @@ Run `python run_script.py --exp_yaml <path to your experiment yaml>`
 ## ComfyUI implementation for different models 
 
 * [FLUX](https://github.com/logtd/ComfyUI-Fluxtapoz)
-* [LTX Video](https://github.com/logtd/ComfyUI-LTXTricks)
 * [HunyuanLoom](https://github.com/logtd/ComfyUI-HunyuanLoom)
 
 Implemented by [logtd](https://x.com/logtdx/status/1869095838016012462?s=48&t=6Yj6BZKooDOmH_JWRWjtHg)
+
+LTX-Video ComfyUI implementation can be found in LTX-Video [official repository](https://github.com/Lightricks/ComfyUI-LTXVideo/tree/master?tab=readme-ov-file#flow-edit).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
