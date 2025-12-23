@@ -46,7 +46,7 @@ LTX-Video ComfyUI implementation can be found in LTX-Video [official repository]
 
 ## Community Work
 
-[Training-Free-WAN-Editing🤗](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing), combines [WAN2.1](https://github.com/Wan-Video/Wan2.1) with FlowEdit to extend training-free to video editing. If you are interested in video editing, please feel free to take a look. Implemented by [Kyujinpy](https://github.com/KyujinHan)
+[Training-Free-WAN-Editing🤗](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing), combines [WAN2.1](https://github.com/Wan-Video/Wan2.1) with FlowEdit to extend training-free to video editing. If you are interested in video editing, please feel free to take a look. Implemented by [Kyujinpy](https://github.com/KyujinHan).
   
 ## License
 This project is licensed under the [MIT License](LICENSE).
