@@ -6,7 +6,10 @@
 
 [Project](https://matankleiner.github.io/flowedit/) | [Arxiv](https://arxiv.org/abs/2412.08629) | [Proceedings](https://openaccess.thecvf.com/content/ICCV2025/html/Kulikov_FlowEdit_Inversion-Free_Text-Based_Editing_Using_Pre-Trained_Flow_Models_ICCV_2025_paper.html) | [Demo](https://huggingface.co/spaces/fallenshock/FlowEdit) | [ComfyUI](#comfyui-implementation-for-different-models) | [Data](https://github.com/fallenshock/FlowEdit/tree/main/Data)
 
+#### [Recorded Talk](https://www.youtube.com/live/2fEDy-uTAII?si=_NRbANcqgX9wyvcI&t=17998)
+
 ### [ICCV 2025 Best Student Paper] Official Pytorch implementation of the paper: "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models"
+
 
 ![](imgs/teaser.png)
 
@@ -44,9 +47,15 @@ Implemented by [logtd](https://x.com/logtdx/status/1869095838016012462?s=48&t=6Y
 
 LTX-Video ComfyUI implementation can be found in LTX-Video [official repository](https://github.com/Lightricks/ComfyUI-LTXVideo/tree/master?tab=readme-ov-file#flow-edit).
 
-## Community Work
+## Community and Follow-Up Work
 
-[Training-Free-WAN-Editing🤗](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing), combines [WAN2.1](https://github.com/Wan-Video/Wan2.1) with FlowEdit to extend training-free to video editing. If you are interested in video editing, please feel free to take a look. Implemented by [Kyujinpy](https://github.com/KyujinHan).
+* [Training-Free-WAN-Editing🤗](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing), combines [WAN2.1](https://github.com/Wan-Video/Wan2.1) with FlowEdit to extend training-free to video editing. If you are interested in video editing, please feel free to take a look. Implemented by [Kyujinpy](https://github.com/KyujinHan).
+
+* DNAEdit refines the Gaussian noise in the noise domain, improving image and video editing (NeurIPS 2025 Spotlight). [Project](https://xiechenxi99.github.io/DNAEdit/) | [Code](https://github.com/xiechenxi99/DNAEdit_code) | [Arxiv](https://arxiv.org/abs/2506.01430) | [Proceedings](https://neurips.cc/virtual/2025/loc/san-diego/poster/118684)
+
+* FlowAlign add optimal control-based trajectory control to the inversion free process (ICLR 2026). [Code](https://github.com/FlowAlign/FlowAlign) | [Arxiv](https://arxiv.org/abs/2505.23145) | [Proceedings](https://openreview.net/forum?id=nyttIJfwW7) 
+
+* DynaEdit extened FlowEdit for dynmaic video editing. [Project](https://dynaedit.github.io/) | [Arxiv](https://arxiv.org/abs/2603.17989)
   
 ## License
 This project is licensed under the [MIT License](LICENSE).
