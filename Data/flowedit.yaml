@@ -382,7 +382,7 @@
      - 4_seahorse
 
 -
-    init_img:  flowedit_data/coconut_out.png
+    init_img:  flowedit_data/coconut.png
     source_prompt: The image features a coconut shell filled with water, creating a unique and artistic scene. The water in the coconut shell is splashing, adding to the visual appeal. The coconut shell is placed on a table, next to an apple.
 
     target_prompts:
