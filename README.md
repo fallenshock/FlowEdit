@@ -55,7 +55,7 @@ LTX-Video ComfyUI implementation can be found in LTX-Video [official repository]
 
 * FlowAlign add optimal control-based trajectory control to the inversion free process (ICLR 2026). [Code](https://github.com/FlowAlign/FlowAlign) | [Arxiv](https://arxiv.org/abs/2505.23145) | [Proceedings](https://openreview.net/forum?id=nyttIJfwW7) 
 
-* DynaEdit extened FlowEdit for dynmaic video editing. [Project](https://dynaedit.github.io/) | [Arxiv](https://arxiv.org/abs/2603.17989)
+* DynaEdit extened FlowEdit for dynmaic video editing (EECV 2026). [Project](https://dynaedit.github.io/) | [Arxiv](https://arxiv.org/abs/2603.17989)
   
 ## License
 This project is licensed under the [MIT License](LICENSE).
